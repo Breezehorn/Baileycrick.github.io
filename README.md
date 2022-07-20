@@ -1,1 +1,1 @@
-https://github.com/Breezehorn/baileycrick.gihub.io
+https://github.com/Breezehorn/baileycrick.github.io
